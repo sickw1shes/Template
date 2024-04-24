@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\Template.Infrastructure\Template.Infrastructure.csproj" />
+      <ProjectReference Include="..\Template.Infrastructure\Template.Infrastructure.csproj" />
       <ProjectReference Include="..\Template.Application\Template.Application.csproj" />
       <ProjectReference Include="..\Template.Domain\Template.Domain.csproj" />
       <ProjectReference Include="..\Template.Persistence\Template.Persistence.csproj" />
